@@ -6,7 +6,7 @@
 	"Plugins": [
 		{
 			"Name": "TwinmotionToUnreal",
-			"Enabled": true,
+			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Mac"
@@ -14,7 +14,7 @@
 		},
 		{
 			"Name": "TwinmotionToUnrealContent",
-			"Enabled": true,
+			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Mac"
