@@ -1,4 +1,4 @@
-# INFO265: Computacion Grafica - Missing: Horror Game
+# INFO265: Computacion Grafica - Missing: Horror Game (V 1.0)
 
 Videojuego desarrollado en Unreal Engine para el optativo computación grafica.
 
