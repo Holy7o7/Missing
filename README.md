@@ -1,3 +1,5 @@
-# Missing
+# INFO265: Computacion Grafica - Missing: Horror Game
 
-Developed with Unreal Engine 4
+Videojuego desarrollado en Unreal Engine para el optativo computación grafica.
+
+Trailer: https://youtu.be/Le5-AzRTPeQ
